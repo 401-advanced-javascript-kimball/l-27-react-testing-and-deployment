@@ -1,18 +1,13 @@
-# l27-react-testing-and-deployment
-
-https://github.com/401-advanced-javascript-kimball/l27-react-testing-and-deployment/pull/1
-https://travis-ci.com/401-advanced-javascript-kimball/l27-react-testing-and-deployment
-
-# LAB - 
+# LAB - React Testing and Deployment
 
 ## Project Name
 
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l27-react-testing-and-deployment/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l27-react-testing-and-deployment)
+
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
