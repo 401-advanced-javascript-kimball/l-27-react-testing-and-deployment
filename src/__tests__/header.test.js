@@ -1,4 +1,4 @@
-import Header from '../components/header';
+import Header from '../components/header/header';
 
 import Enzyme, { mount } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
