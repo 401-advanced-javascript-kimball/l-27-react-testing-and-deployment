@@ -34,7 +34,6 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-kimball/l27-react-testing-and-deployment/issues"
   },
-  "homepage": "https://github.com/401-advanced-javascript-kimball/l27-react-testing-and-deployment#readme",
   "browserslist": {
     "production": [
       ">0.2%",
